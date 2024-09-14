@@ -1,5 +1,5 @@
 # MLtutorial
-This repository contains the code and notes from the Machine Learning A-Z course on Udemy. It includes various machine learning algorithms and techniques implemented in Python and R, covering topics such as:
+This repository contains the code and notes to include various machine learning algorithms and techniques implemented in Python and R, covering topics such as:
 
 Data Preprocessing: Handling missing data, encoding categorical data, feature scaling.
 Regression: Linear Regression, Polynomial Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression.
@@ -12,4 +12,4 @@ Deep Learning: Artificial Neural Networks, Convolutional Neural Networks, Recurr
 Dimensionality Reduction: Principal Component Analysis, Linear Discriminant Analysis, Kernel PCA.
 Model Selection & Boosting: Model selection techniques, XGBoost.
 
-##This repository is part of my learning process and is not intended to replicate the tutorial.
+
