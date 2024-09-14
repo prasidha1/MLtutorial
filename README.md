@@ -1,4 +1,4 @@
-# MLtutorial
+# Machine learning
 This repository contains the code and notes to include various machine learning algorithms and techniques implemented in Python and R, covering topics such as:
 
 Data Preprocessing: Handling missing data, encoding categorical data, feature scaling.
